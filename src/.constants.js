@@ -1,7 +1,7 @@
 module.exports = Object.freeze({
   TOKEN: '733462745:AAHm9FIBR-Qd_M5PnvnkEPbMA5lxlLE_MSI',
   ARIA_SECRET: 'password',
-  ARIA_DOWNLOAD_LOCATION: '/home/greatindianparody/aria-telegram-mirror-bot/downloads',
+  ARIA_DOWNLOAD_LOCATION: '/home/ubuntu/aria-telegram-mirror-bot/downloads',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: [], // Prevent downloading from URLs containing these substrings
   ARIA_FILTERED_FILENAMES: [], // Files/top level directories with these substrings in the filename won't be downloaded
